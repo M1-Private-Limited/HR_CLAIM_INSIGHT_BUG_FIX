@@ -1,19 +1,20 @@
 <h1 align="center">
-  <a href='https://github.com/M1-Private-Limited'>
+  <a href='https://github.com/M1-Private-Limited/ML_APP_PUBLIC_REPO'>
     <!-- Please provide path to your logo here -->
-    <img src='https://github.com/ONGQ0019/filedumps/raw/main/download-removebg-preview.png' alt="Logo" width="100" height="100">
+    <img src='https://github.com/ONGQ0019/filedumps/raw/main/download-removebg-preview.png' alt="Logo" width="200" height="200">
   </a>
 </h1>
 
 <div align="center">
-  Machine Learning Application 
+  <strong> Machine Learning Application </strong>
   <br />
-  <a href="https://user-images.githubusercontent.com/102540895/205837434-c0a1a9c6-8061-4766-af85-28db9c8201cc.mp4"><strong>Watch intro video »</strong></a>
+  <a href="https://user-images.githubusercontent.com/102540895/205837434-c0a1a9c6-8061-4766-af85-28db9c8201cc.mp4"><strong>Watch intro video</strong></a>
   <br />
   <a href="https://github.com/M1-Private-Limited/ML_APP_PUBLIC_REPO/discussions/1">Report a Bug or request for a feature</a>
+  <br />
 </div>
 
-<details open="open">
+<details open="closed">
 <summary>Table of Contents</summary>
 
 - [About](#about)
@@ -44,7 +45,7 @@
 
 Streamlit on python, hosted on Azure Web App and compartmentalized in Github.
 
-<details open="open">
+<details open="closed">
 <summary>Expand Architecture Diagram</summary>
   <img width="600" alt="cccb" src="https://user-images.githubusercontent.com/102540895/205845331-4fcd6f2f-aa33-4cc4-ac2e-06f0d78f71c4.png">
 </details>
@@ -54,7 +55,7 @@ Streamlit on python, hosted on Azure Web App and compartmentalized in Github.
 
 Make ML-trained models more accesible, interpretable, effective and reproducible to both data scientists and end-users.
 
-<details open="open">
+<details open="closed">
 <summary>Expand Objective Diagram</summary>
   <img width="347" alt="vvcdz" src="https://user-images.githubusercontent.com/102540895/205845561-2862b9f1-2b80-4fa9-bbab-4ff9edae8974.PNG">
 </details>
