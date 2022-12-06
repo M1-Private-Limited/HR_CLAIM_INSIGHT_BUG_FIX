@@ -10,7 +10,7 @@
   <br />
   <a href="https://user-images.githubusercontent.com/102540895/205837434-c0a1a9c6-8061-4766-af85-28db9c8201cc.mp4"><strong>Watch intro video »</strong></a>
   <br />
-  <a href="https://github.com/M1-Private-Limited/MACHINE_LEARNING_APP/discussions/1">Report a Bug or request for a feature</a>
+  <a href="https://github.com/M1-Private-Limited/ML_APP_PUBLIC_REPO/discussions/1">Report a Bug or request for a feature</a>
 </div>
 
 <details open="open">
